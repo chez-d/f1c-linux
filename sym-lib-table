@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "f1c200s")(type "KiCad")(uri "${KIPRJMOD}/parts/f1c200s.kicad_sym")(options "")(descr ""))
+  (lib (name "vreg")(type "KiCad")(uri "${KIPRJMOD}/parts/vreg.kicad_sym")(options "")(descr ""))
+  (lib (name "gt7010")(type "KiCad")(uri "${KIPRJMOD}/parts/gt7010.kicad_sym")(options "")(descr ""))
+)

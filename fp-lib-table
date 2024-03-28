@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "f1c200s")(type "KiCad")(uri "${KIPRJMOD}/parts/f1c200s.pretty")(options "")(descr ""))
+  (lib (name "vreg")(type "KiCad")(uri "${KIPRJMOD}/parts/vreg.pretty")(options "")(descr ""))
+  (lib (name "gt7010")(type "KiCad")(uri "${KIPRJMOD}/parts/gt7010.pretty")(options "")(descr ""))
+  (lib (name "among")(type "KiCad")(uri "${KIPRJMOD}/parts/among.pretty")(options "")(descr ""))
+  (lib (name "among2")(type "KiCad")(uri "${KIPRJMOD}/parts/among2.pretty")(options "")(descr ""))
+)
